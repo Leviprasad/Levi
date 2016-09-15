@@ -1,0 +1,4 @@
+values= array[ "apple"]
+values.push("kiwi")
+values.push("mango")
+values("cherry")
